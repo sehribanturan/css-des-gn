@@ -1,0 +1,310 @@
+.container1 {
+    width: 100%;
+    height: 70%;
+}
+
+.header {
+    display: flex;
+    background-color: #333333;
+    width: 100%;
+    height: 22vh;
+}
+
+.logo {
+
+    width: 280vh;
+    margin-left: 160px;
+    color: #C0BAB6;
+    background-color: #333333;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 15px;
+
+}
+
+.log {
+    margin-bottom: -20px;
+}
+
+.web {
+    font-size: 12px;
+    font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.h1 {
+
+    font-size: 36px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #919191;
+
+
+}
+
+.h2 {
+    width: 70vh;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #919191;
+}
+
+.nav {
+    width: 120%;
+    height: 10vh;
+    margin-top: 35px;
+    margin-left: 300px;
+    margin-right: 20px;
+    background-color: #232323;
+
+
+
+}
+
+.ul {
+    display: flex;
+    color: #C0BAB6;
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    gap: 20px;
+    list-style-type: none;
+    width: 180%;
+
+}
+
+.container2 {
+    width: 100%;
+
+}
+
+.wrapper {
+    padding: 30px;
+    display: block;
+    width: 960px;
+    margin: 0 auto;
+    color: #979797;
+
+}
+
+.more {
+    margin-left: 50px;
+    margin-top: -80px;
+
+}
+
+
+.homepage {
+    margin-bottom: 20px;
+    display: block;
+    width: 50%;
+    height: 70%;
+    margin-left: 150px;
+
+}
+
+.all {
+    display: flex;
+    width: 35%;
+    margin-left: 72px;
+    gap: 14px;
+
+
+
+
+}
+
+.one {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    margin-left: -20px;
+}
+
+.lorem {
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    width: 26vh;
+    height: 30vh;
+    margin-top: 10px;
+    text-align: left;
+    color: #979797;
+
+}
+
+.fıgur {
+    margin-top: -10px;
+    margin-right: 5px;
+
+
+
+}
+
+
+
+.strong {
+    color: #979797;
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.a {
+    color: #FF9900;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+
+
+}
+
+.hr {
+    margin-right: -350px;
+
+}
+
+.pen {
+
+    margin-left: -10px;
+    margin-right: -750px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+}
+
+.text {
+    margin-left: 10px;
+    word-wrap: break-word;
+    width: 95vh;
+    color: #979797;
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.all-link {
+    color: #FF9900;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.black {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.figcapt {
+    width: 70vh;
+    color: #979797;
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin-left: 40px;
+
+}
+
+.hr1 {
+    margin-right: 1100px;
+}
+
+.Categories {
+    text-decoration: none;
+    border-bottom-style: dotted;
+    color: #232323;
+
+
+
+}
+
+.ul1 {
+    margin: 10px;
+    list-style-type: disclosure-closed;
+    color: #FF9900;
+    line-height: 30px;
+    font-size: 13px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+
+}
+
+.column1 {
+
+    display: block;
+    margin-left: 100px;
+
+
+}
+
+.container4 {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.title {
+    margin-left: 70px;
+    color: #979797;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.all1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 170px;
+    margin-right: 40px;
+
+
+}
+
+.black1 {
+    margin-top: 20px;
+    display: flex;
+}
+
+.footer {
+    background-color: #232323;
+    width: 100%;
+    padding: 10px;
+    margin-top: 30px;
+    color: white;
+
+}
+
+.foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #979797;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+
+.boxs {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 10px 30px 30px 0px;
+
+
+}
+
+.morem {
+    color: #FF9900;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+
+
+}
+
+.ımg {
+    border-style: double
+}
