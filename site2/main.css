@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 100%;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(10, 1, 1, 0.764);
+    color: white;
+    margin-bottom: 30px;
+}
+.basic {
+    margin: 0;
+    padding: 0;
+}
+.two-container {
+    padding: 20px;
+    background-color: rgb(13, 10, 10);
+    display: flex;
+    gap: 15px;
+}
+.one {
+    display: flex;
+    gap: 20px;
+}
+.homepage {
+    width: 960px;
+    margin: auto;
+    gap: 10px;
+
+    margin-bottom: 30px;
+}
+.gray-container {
+    background-color: rgb(210, 207, 207);
+}
+.eu {
+    color: rgba(138, 134, 134, 0.845);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 300px;
+    font-style: italic;
+    padding: 10px;
+}
+.nul {
+    color: rgba(138, 134, 134, 0.845);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    padding: 10px;
+}
+.a {
+    color: orange;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px;
+}
+.small-container {
+    display: flex;
+    gap: 20px;
+}
+
+.pıcture {
+    float: left;
+    margin-right: 10px;
+    border-style: double;
+}
+.vest {
+    color: rgba(138, 134, 134, 0.845);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+
+}
+.h3 {
+    color: rgba(138, 134, 134, 0.845);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    padding: 10px;
+}
+.pıctures-container {
+    display: flex;
+    gap: 5px;
+}
+.ımg-border {
+    border-style: double;
+}
+.foot {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    color: #979797;
+    font-size: 16px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: rgb(35, 35, 35);
+}
+.text {
+    color: #979797;
+}
