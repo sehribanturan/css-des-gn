@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header-container {
+  width: 100%;
+  padding: 30px;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.lınk:active::before {
+  lighting-color: red;
+}
+.lınk {
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+.foter-text {
+  gap: 30px;
+}
+.all-footer {
+  margin-top: 50px;
+}
+.p-text {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.box {
+  width: 70%;
+  height: 350px;
+  background-color: rgb(70, 141, 199);
+  margin-left: 220px;
+}
+.img {
+  position: absolute;
+  z-index: 1;
+  width: 670px;
+  float: left;
+  margin-bottom: 50px;
+}
+.home-page {
+  display: flex;
+}
+img {
+  width: 80%;
+
+  margin-top: 30px;
+}
+.text-container {
+  margin-left: 100px;
+  width: 60%;
+  margin-bottom: 120px;
+}
+.h1 {
+  box-sizing: border-box;
+  color: rgb(71, 138, 201);
+  display: block;
+  flex-shrink: 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 47px;
+}
+.p-we {
+  box-sizing: border-box;
+  color: rgb(128, 128, 128);
+  display: block;
+  flex-shrink: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+.ul {
+  color: rgb(51, 46, 46);
+
+  font-family: "Open Sans", sans-serif;
+  list-style-type: none;
+}
+.li {
+  position: relative;
+  padding: 8px;
+  font-weight: 600;
+}
+li::before {
+  content: "•";
+  position: absolute;
+  left: -1em;
+  color: rgb(78, 129, 224);
+  font-size: 60.600000381469727px;
+  line-height: 40%;
+}
+.button {
+  background-color: rgb(56, 124, 189);
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 15px;
+}
+.container-home {
+  padding: 40px;
+  display: flex;
+  gap: 40px;
+}
+.yellow {
+  margin-left: 30px;
+  background-color: rgb(217, 170, 50);
+}
+.write {
+  padding: 30px;
+}
+.h3-y {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 100;
+}
+.h1-y {
+  font-family: "Concert One";
+  font-size: 80px;
+  font-weight: 900;
+  height: 64px;
+  line-height: 64px;
+  margin-top: -10px;
+}
+.p-y {
+  color: black;
+  flex-shrink: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  height: 100px;
+  line-height: 30.600000381469727px;
+  width: 460px;
+  margin-top: -10px;
+  margin-bottom: 60px;
+}
+.learn {
+  outline: 5px solid black;
+  width: 150px;
+  text-align: center;
+}
+.color {
+  color: black;
+}
+.yellow-box {
+  display: flex;
+  flex-direction: column;
+}
+.logo2 {
+  margin-top: -30px;
+}
